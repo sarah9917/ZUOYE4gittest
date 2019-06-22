@@ -1,0 +1,10 @@
+E:\摄影测量学\ZUOYE4\ZUOYE4\obj\Debug\ZUOYE4.csprojAssemblyReference.cache
+E:\摄影测量学\ZUOYE4\ZUOYE4\obj\Debug\ZUOYE4.Form1.resources
+E:\摄影测量学\ZUOYE4\ZUOYE4\obj\Debug\ZUOYE4.Properties.Resources.resources
+E:\摄影测量学\ZUOYE4\ZUOYE4\obj\Debug\ZUOYE4.csproj.GenerateResource.cache
+E:\摄影测量学\ZUOYE4\ZUOYE4\obj\Debug\ZUOYE4.csproj.CoreCompileInputs.cache
+E:\摄影测量学\ZUOYE4\ZUOYE4\bin\Debug\ZUOYE4.exe.config
+E:\摄影测量学\ZUOYE4\ZUOYE4\bin\Debug\ZUOYE4.exe
+E:\摄影测量学\ZUOYE4\ZUOYE4\bin\Debug\ZUOYE4.pdb
+E:\摄影测量学\ZUOYE4\ZUOYE4\obj\Debug\ZUOYE4.exe
+E:\摄影测量学\ZUOYE4\ZUOYE4\obj\Debug\ZUOYE4.pdb
